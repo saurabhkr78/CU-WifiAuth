@@ -1,0 +1,11 @@
+{
+  "name": "cu-wifi-auth",
+  "version": "1.0.0",
+  "description": "Chrome extension for automatic WiFi authentication",
+  "scripts": {
+    "generate-icons": "node convert-icons.js"
+  },
+  "dependencies": {
+    "sharp": "^0.32.1"
+  }
+} 
