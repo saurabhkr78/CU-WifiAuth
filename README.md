@@ -28,10 +28,10 @@ Your credentials are stored securely in Chrome's storage system and are only use
 - Secure credential storage
 - Easy to use interface
 
-## Support
 ## Sponsor Me 💖  
 If you like my work, consider sponsoring me!  
 
-[![Sponsor Me](https://github.com/sponsors/saurabhkr78/card)](https://github.com/sponsors/saurabhkr78)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor%20Me-%E2%9D%A4-red?style=for-the-badge)](https://github.com/sponsors/saurabhkr78)
+
 
 If you encounter any issues or need help, please create an issue in the repository. 
