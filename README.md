@@ -29,5 +29,5 @@ Your credentials are stored securely in Chrome's storage system and are only use
 - Easy to use interface
 
 ## Support
-
+<iframe src="https://github.com/sponsors/saurabhkr78/button" title="Sponsor saurabhkr78" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 If you encounter any issues or need help, please create an issue in the repository. 
